@@ -8,6 +8,7 @@ export default function Header() {
         <Link style={{color: 'white', textDecoration:'none'}} to='/'>Home</Link>
         <Link style={{color: 'white', textDecoration:'none'}} to='/about'>About</Link>
         <Link style={{color: 'white', textDecoration:'none'}} to='/users'>Users</Link>
+        <Link style={{color: 'white', textDecoration:'none'}} to='/posts'>Posts</Link>
         <Link style={{color: 'white', textDecoration:'none'}} to='/contact'>Contact</Link>
         </div>
     </div>
